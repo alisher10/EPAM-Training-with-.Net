@@ -1,6 +1,6 @@
 ﻿public class MaxNumberOfUnequalChars
 {
-    static void Main()
+    public static void Main()
     {
         List<char> letter = new List<char>();
         Console.WriteLine("Input text:");
