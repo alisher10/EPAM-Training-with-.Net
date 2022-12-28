@@ -1,7 +1,7 @@
 ﻿namespace InterfaceAndAbstractClass {
     class MainClass
     {
-        static void Main()
+        public static void Main()
         {
             Bird bird = new Bird(new Coordinate(0, 0, 0));
             Airplane airplane = new Airplane(new Coordinate(1, 2, 3));
